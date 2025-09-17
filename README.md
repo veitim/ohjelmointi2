@@ -2,4 +2,4 @@
 
 Koodit tehty osana Haaga-Helian ohjemlointi2-kurssia.
 
-Tehtävät tehty Christian Braden materiaalien pohjalta.
+Kurssi vetäjä Christian Brade.
